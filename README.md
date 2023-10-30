@@ -1,6 +1,6 @@
 # IchaPuspitaSari.github.io
 
-# Icha Puspita Sari - Situs Pribadi
+# Hallo ! Saya Icha Puspita Sari
 
 Selamat datang di situs pribadi saya! Ini adalah tempat di mana saya berbagi pemikiran, proyek, dan pengalaman saya dalam dunia teknologi dan banyak hal lainnya.
 
