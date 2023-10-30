@@ -1,12 +1,10 @@
 # IchaPuspitaSari.github.io
 
-# [Icha Puspita Sari] - Situs Pribadi
+# Icha Puspita Sari - Situs Pribadi
 
 Selamat datang di situs pribadi saya! Ini adalah tempat di mana saya berbagi pemikiran, proyek, dan pengalaman saya dalam dunia teknologi dan banyak hal lainnya.
 
 ## Tentang Saya
-
-![Foto Profil]([link_ke_foto_profil.jpg](https://avatars.githubusercontent.com/u/117562736?v=4))
 
 Saya adalah Icha Puspita Sari, seorang Mahasiswi jurusa Informatika. Saya memiliki pengalaman dalam beberapa proyek dalam bidang pemrograman dan data. Selain itu, saya sangat antusias untuk belajar dan berkontribusi dalam komunitas pengembangan perangkat lunak.
 
