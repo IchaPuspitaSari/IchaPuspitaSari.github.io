@@ -6,7 +6,7 @@ Selamat datang di situs pribadi saya! Ini adalah tempat di mana saya berbagi pem
 
 ## Tentang Saya
 
-Saya adalah Icha Puspita Sari, seorang Mahasiswi jurusa Informatika. Saya memiliki pengalaman dalam beberapa proyek dalam bidang pemrograman dan data. Selain itu, saya sangat antusias untuk belajar dan berkontribusi dalam komunitas pengembangan perangkat lunak.
+Saya adalah Icha Puspita Sari, seorang Mahasiswi jurusan Informatika. Saya memiliki pengalaman dalam beberapa proyek dalam bidang pemrograman dan data. Selain itu, saya sangat antusias untuk belajar dan berkontribusi dalam komunitas pengembangan perangkat lunak.
 
 ## Hubungi Saya
 
